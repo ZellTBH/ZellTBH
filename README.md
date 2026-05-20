@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./github-profile.svg?v=2" alt="ZellTBH profile" />
+  <img src="github-profile.svg" alt="profile" />
 </div>
