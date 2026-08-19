@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github-profile.svg" alt="Sacha Nottet, Breaking Frame" width="800" />
+<img src="profile-v2.svg" alt="Sacha Nottet, Breaking Frame" />
 
 <br/>
 
